@@ -12,7 +12,7 @@
   },
   {
     "repository": "vendor_oneplus_cheeseburger_dumpling",
-    "target_path": "vendor/oneplus"
+    "target_path": "vendor/oneplus",
     "branch": "r11"
   }
 ]
